@@ -1,4 +1,4 @@
-#### The current version has several issues. I have dealt with them already and will be releasing an improved version within the next two weeks (until end of January 2022).
+#### Since I've coded this implementation, official code has been released. This also features a more efficient calculation and more accurate results. Therefore, I recommend the [official implementation](https://github.com/google-research/google-research/blob/master/do_wide_and_deep_networks_learn_the_same_things/efficient_CKA.py)
 ---
 # Centered Kernel Alignment 
 Implementation of paper ["Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth"](https://arxiv.org/abs/2010.15327) by 
